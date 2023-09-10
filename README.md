@@ -13,9 +13,6 @@ You can use the website to generate badges: https://shields.io/
 
 **About me:**
 
-<!-- Any image aligned to the right. Beware the width -->
-<img width="55%" align="right" alt="Github" src="Avatar.png" />
-
 - 🎓 I’m currently studying Computer and Information Science at the University of Ljubljana
 - 🌱 My main focus is learning about new technologies and concepts of computer science in general
 
