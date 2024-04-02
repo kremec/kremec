@@ -6,14 +6,13 @@ You can use the website to generate badges: https://shields.io/
 -->
 
 <!-- [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/) -->
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/kremec)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:klemen.remec@gmail.com)
+[Website](https://subbyte.net/)
 
 
 **About me:**
 
-- 🎓 I’m currently studying Computer and Information Science at the University of Ljubljana
-- 🌱 My main focus is learning about new technologies and concepts of computer science in general
+- I’m currently studying Computer and Information Science at the University of Ljubljana
+- My main focus is learning about new technologies and concepts of computer science in general
 
 **Skills:** 
 
@@ -37,7 +36,6 @@ You can use the website to generate badges: https://shields.io/
   <br />
   <code><img width="5%" src="https://cdn-icons-png.flaticon.com/128/888/888867.png"></code>
   <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"></code>
-  <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
   <code><img width="5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></code>
   
   <br />
